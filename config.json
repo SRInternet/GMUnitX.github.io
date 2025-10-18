@@ -1,0 +1,27 @@
+{
+  "github_url": "https://github.com/GMUnitX/",
+  "dark_mode": "auto",
+  "name": "GMUnitX",
+  "bio": "一位可爱的AI开发者",
+  "introduction_file": "",
+  "theme": {
+    "primary_color": "#165DFF",
+    "secondary_color": "#36CFFB",
+    "dark_primary_color": "#4080FF",
+    "dark_secondary_color": "#60CBFF"
+  },
+  "background": {
+    "image": "background.jpg",
+    "blur": 4,
+    "overlay_opacity": 0.6,
+    "overlay_color": "#f3f4f6",
+    "dark_overlay_color": "#121212"
+  },
+  "contact": {
+    "qq": "https://qm.qq.com/q/6MPrHGfKpi",
+    "wechat": "",
+    "bilibili": "https://space.bilibili.com/1623617731",
+    "douyin": "",
+    "xiaohongshu": ""
+  }
+}
